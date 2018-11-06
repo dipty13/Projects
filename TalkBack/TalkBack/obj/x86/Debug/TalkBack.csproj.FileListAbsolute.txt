@@ -1,0 +1,9 @@
+G:\c#Projetc\TalkBack\TalkBack\bin\Debug\TalkBack.exe
+G:\c#Projetc\TalkBack\TalkBack\bin\Debug\TalkBack.pdb
+G:\c#Projetc\TalkBack\TalkBack\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\c#Projetc\TalkBack\TalkBack\obj\x86\Debug\TalkBack.Form1.resources
+G:\c#Projetc\TalkBack\TalkBack\obj\x86\Debug\TalkBack.Properties.Resources.resources
+G:\c#Projetc\TalkBack\TalkBack\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\c#Projetc\TalkBack\TalkBack\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\c#Projetc\TalkBack\TalkBack\obj\x86\Debug\TalkBack.exe
+G:\c#Projetc\TalkBack\TalkBack\obj\x86\Debug\TalkBack.pdb
